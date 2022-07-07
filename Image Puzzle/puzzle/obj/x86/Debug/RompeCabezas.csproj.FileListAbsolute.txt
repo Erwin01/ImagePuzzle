@@ -1,0 +1,17 @@
+C:\Users\ERWIN\Downloads\Image Puzzle\puzzle\bin\Debug\puzzle.exe
+C:\Users\ERWIN\Downloads\Image Puzzle\puzzle\bin\Debug\puzzle.pdb
+C:\Users\ERWIN\Downloads\Image Puzzle\puzzle\obj\x86\Debug\WindowsFormsApplication1.frmPuzzleGame.resources
+C:\Users\ERWIN\Downloads\Image Puzzle\puzzle\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ERWIN\Downloads\Image Puzzle\puzzle\obj\x86\Debug\RompeCabezas.csproj.GenerateResource.Cache
+C:\Users\ERWIN\Downloads\Image Puzzle\puzzle\obj\x86\Debug\puzzle.exe
+C:\Users\ERWIN\Downloads\Image Puzzle\puzzle\obj\x86\Debug\puzzle.pdb
+C:\Users\ERWIN\Downloads\Image Puzzle\puzzle\obj\x86\Debug\RompeCabezas.csprojResolveAssemblyReference.cache
+C:\Development2022\Image Puzzle\puzzle\bin\Debug\puzzle.exe
+C:\Development2022\Image Puzzle\puzzle\bin\Debug\puzzle.pdb
+C:\Development2022\Image Puzzle\puzzle\obj\x86\Debug\RompeCabezas.csproj.AssemblyReference.cache
+C:\Development2022\Image Puzzle\puzzle\obj\x86\Debug\WindowsFormsApplication1.frmPuzzleGame.resources
+C:\Development2022\Image Puzzle\puzzle\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Development2022\Image Puzzle\puzzle\obj\x86\Debug\RompeCabezas.csproj.GenerateResource.cache
+C:\Development2022\Image Puzzle\puzzle\obj\x86\Debug\RompeCabezas.csproj.CoreCompileInputs.cache
+C:\Development2022\Image Puzzle\puzzle\obj\x86\Debug\puzzle.exe
+C:\Development2022\Image Puzzle\puzzle\obj\x86\Debug\puzzle.pdb
